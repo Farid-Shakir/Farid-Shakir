@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Farid-Shakir
 - 👀 I’m interested in software enginnering
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Software Enginnering
 - 💞️ I’m looking to collaborate on software enginners group
+- This is my personal account and only afive repositories i have uploadded here but I have anothe account that You can search by FaridGul shakir gitHub
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
